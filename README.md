@@ -14,3 +14,6 @@ The Qt Browser is a simple application that leverages the Qt framework to render
 ## Prerequisites
 - Qt 6.7.2
 - Qt WebEngine module (part of the Qt package)
+
+## Important
+- Make sure to use MSVC because MINGW doesn't support chromium
